@@ -7,7 +7,8 @@ exports.config = {
     }
   },
   include: {
-    I: './steps_file.js'
+    I: './steps_file.js',
+    calculatorPage: './pages/calculators-page.js'
   },
   mocha: {},
   bootstrap: null,
